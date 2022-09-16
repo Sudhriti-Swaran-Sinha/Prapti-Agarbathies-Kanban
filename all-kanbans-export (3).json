@@ -1,0 +1,410 @@
+{
+  "Prapti Agarbathies LLP": {
+    "name": "Prapti Agarbathies LLP",
+    "numberOfColumns": 7,
+    "columns": [
+      {
+        "name": "Order Accepted",
+        "cards": [],
+        "settings": {
+          "color": "#A7D2CB"
+        }
+      },
+      {
+        "name": "Awating Payment",
+        "cards": [
+          {
+            "name": "Debjyoti Sharma S 03.09.2022",
+            "details": "[10:24 AM, 9/3/2022] Sales Shiva: Mansuddhi eco pouch 10 1cs\nNv 100 mrp 20 1cs\nPrapti primium 10 pineapple 10 black rose 1/2 cs\nMansuddhu 20 sandal 1/2 cs\nMogra and champa 1/2\n[10:25 AM, 9/3/2022] Sales Shiva: Prapti pineapple and black rose 20 1/2 cs\n[10:27 AM, 9/3/2022] PIYUSH GUPTA: Order in progress",
+            "color": "CFFAFC"
+          },
+          {
+            "name": "Sanjay Raghunath S 10092022",
+            "details": "[12:25 PM, 9/10/2022] Sales Shiva: Nv 100 1cs\nEco 1cs\n[12:27 PM, 9/10/2022] PIYUSH GUPTA: Order in progress\nhold 13.09.2022",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Sujit dutta Th 15092022",
+            "details": "Eco 15 ca\nNv 100 5cs\nPerfume stick 100 kg",
+            "color": "FAFCD2"
+          },
+          {
+            "name": "Osman ali Kuniya hat W 15092022",
+            "details": "[7:43 PM, 9/14/2022] jyoti Jalpiguri Sales: Mansudhi eko 1bag\n[10:14 AM, 9/15/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Bivas Nandi  F 16092022",
+            "details": "[2:22 PM, 9/16/2022] jyoti Jalpiguri Sales: Bivas Nilahati\n[2:22 PM, 9/16/2022] jyoti Jalpiguri Sales: No Whatsapp Numbar\n[2:23 PM, 9/16/2022] jyoti Jalpiguri Sales: Mansudhi eko 1bag\n[2:36 PM, 9/16/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FAFCD2"
+          },
+          {
+            "name": "Kamal Mujnai F 16092022",
+            "details": "[1:43 PM, 9/16/2022] Sales Shiva: Add nv 25 mixed 1cs\n[2:36 PM, 9/16/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FCC19D"
+          },
+          {
+            "name": "Siddhi Vinayak Enterprise F 16092022",
+            "details": "[10:52 AM, 9/16/2022] Udpal TL: 25 ka Navdeep fresh 6 doz. 25 ka navdeep  floral 6 doz,  20 ka 75 sticks  12 doz.\n[10:54 AM, 9/16/2022] Sales Shiva: Ok\n[12:23 PM, 9/16/2022] PIYUSH GUPTA: Order in progress",
+            "color": "CFFAFC"
+          }
+        ],
+        "settings": {
+          "color": "#FFC090"
+        }
+      },
+      {
+        "name": "Invoiced",
+        "cards": [
+          {
+            "name": "Raj Enterprise S 10092022",
+            "details": "[11:42 AM, 9/10/2022] Raj Akash Daskarman Bhandar Birapara: 3cs 3in1\n1cs prapti spical blackrose, krishnakali, amber \n 2cs NV 7mrp rose, fruty, flower \n2cs bouquet, fruity, levender, epic, mogra, rajnigandha mix\n[11:43 AM, 9/10/2022] Raj Akash Daskarman Bhandar Birapara: 2cs navdep 25 mrp\nRose sandal, frute, rajnigandha\n[11:44 AM, 9/10/2022] PIYUSH GUPTA: Order in progress\n[11:44 AM, 9/10/2022] Raj Akash Daskarman Bhandar Birapara: Ok\n[12:11 PM, 9/10/2022] Sales Shiva: Eco 10cs\n[12:43 PM, 9/10/2022] PIYUSH GUPTA: Order in progress",
+            "color": "A2FCA3"
+          },
+          {
+            "name": "Anup Saha 10092022",
+            "details": "[12:35 PM, 9/10/2022] Sales Shiva: Nv 25 mixed 1cs\nNv 100 1cs\n[12:39 PM, 9/10/2022] PIYUSH GUPTA: Order in progress\nhold 13.09.2022",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Ajit Alam Chathat M 12092022",
+            "details": "[12:08 PM, 9/12/2022] Sachin Office: Maansudhi eco 1 cls\n[12:11 PM, 9/12/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Chandan Store TH 15092022",
+            "details": "eco - 1cs",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Biswajit Ghosh Adhikari W 15092022",
+            "details": "eco- 5  cs",
+            "color": "C1F7C2"
+          },
+          {
+            "name": "Asutosh Gupta  T 15092022",
+            "details": "[11:46 AM, 9/15/2022] Gopal Jashwal Khoribari New: ORDER\nMaan suddhi eco 3cas\n[11:54 AM, 9/15/2022] PIYUSH GUPTA: Order in progress",
+            "color": "C1F7C2"
+          }
+        ],
+        "settings": {
+          "color": "#319DA0"
+        }
+      },
+      {
+        "name": "Goods Ready",
+        "cards": [
+          {
+            "name": "SS sales 3in1 W 15092022",
+            "details": "3in1 - 2 cs",
+            "color": "94D6FF"
+          }
+        ],
+        "settings": {
+          "color": "#F5E8C7"
+        }
+      },
+      {
+        "name": "Dispatched",
+        "cards": [
+          {
+            "name": "S P trade",
+            "details": "Maansuddhi mix - 2 cs",
+            "color": "989FFA"
+          },
+          {
+            "name": "Pakiram Stores TH 15092022",
+            "details": "",
+            "color": "A2FCA3"
+          },
+          {
+            "name": "Avinash F 09092022",
+            "details": "Eco - 1cs",
+            "color": "FCC19D"
+          },
+          {
+            "name": "Sankar belakoba M12092022",
+            "details": "[10:36 PM, 9/12/2022] +91 83888 80693: Eco 10 box\n[9:45 AM, 9/13/2022] PIYUSH GUPTA: Order in progress",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Shivsakti Traders S 10092022",
+            "details": "[12:47 PM, 9/10/2022] Sales Shiva: Order 10cs eco \n1cs nv 25 mixed  with scheme\n[1:00 PM, 9/10/2022] PIYUSH GUPTA: Order in progress\nhold 13.09.2022",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Narayan Basak  S 11092022",
+            "details": "",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Dheeraj Stores 10092022",
+            "details": "Nv  12 sandel 1cs\nNv 12 mixed 2cs\nNv 25 mixed 1cs",
+            "color": "989FFA"
+          },
+          {
+            "name": "Appu Chourasia - T 01092022",
+            "details": "Eco - 5 cs \nDate - 01.09.2022",
+            "color": "FCC7FC"
+          },
+          {
+            "name": "Sanjib paul kasiabari M 12092022",
+            "details": "[7:26 PM, 9/12/2022] Sales Shiva: 5cs eco\n[7:55 PM, 9/12/2022] PIYUSH GUPTA: Order in progress",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Biswajit Debnath S 10092022",
+            "details": "[1:44 PM, 9/10/2022] jyoti Jalpiguri Sales: Mansudhi eko 1bag\n[3:23 PM, 9/10/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Subhas Palpara T06092022",
+            "details": "[10:48 AM, 9/6/2022] Sachin Office: Eco 1 c/s order\n[10:48 AM, 9/6/2022] PIYUSH GUPTA: Order in progress\nGoods deliverd to another party by Sachin da",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Kamal Mujnai M05092022",
+            "details": "[1:12 PM, 9/5/2022] Sales Shiva: Eco 1cc\n[10:04 AM, 9/6/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FCC19D"
+          },
+          {
+            "name": "Narayan Banarjee  F 02.09.2022",
+            "details": "[7:09 PM, 9/2/2022] jyoti Jalpiguri Sales: Mansudhi eko 1bag,Nb100 1cs Delivery Date = 12/09/22\n[10:11 AM, 9/3/2022] PIYUSH GUPTA: Order in progress",
+            "color": "94D6FF"
+          },
+          {
+            "name": "Bimal Barman W 31082022",
+            "details": "Eco- 4 cs",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Tajit Alam T 08092022",
+            "details": "[12:06 PM, 9/8/2022] Sachin Office: Payment 5810 received by sachin\n[12:06 PM, 9/8/2022] Sachin Office: 2 c/s eco order\n[12:08 PM, 9/8/2022] PIYUSH GUPTA: Order in progress",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Kamakhya Store S 10092022",
+            "details": "[12:22 PM, 9/10/2022] Sales Shiva: Nv 100 10cs\n[12:22 PM, 9/10/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FFFFFF"
+          },
+          {
+            "name": "Dheeraj Stores W07092022",
+            "details": "Eco - 5 cs",
+            "color": "989FFA"
+          },
+          {
+            "name": "Pralaad Store W31082022",
+            "details": "Eco - 4 cs",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Mintu Das M05092022",
+            "details": "Odr\nNavdip 100 1c.s",
+            "color": "CCD0FC"
+          },
+          {
+            "name": "Pranab Dey T31082022",
+            "details": "Odr\nPrapti 10mrp \nLavender 1c.s With scim",
+            "color": "989FFA"
+          },
+          {
+            "name": "Mritunjay islampur S03092022",
+            "details": "[5:53 PM, 9/3/2022] Bikash Sales Islampur: Odr Navdip 100 1c.s\n[5:53 PM, 9/3/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Bhawani Store 811",
+            "details": "1 c/s eco order",
+            "color": "FAFCD2"
+          },
+          {
+            "name": "Chandan Stores 810",
+            "details": "[12:33 PM, 8/29/2022] Sachin Office: Eco 1 c/s order\n[12:33 PM, 8/29/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FCC7FC"
+          },
+          {
+            "name": "Munna Kumar Sha F02092022",
+            "details": "[2:58 PM, 9/2/2022] +91 79088 17125: Order\nNv 3 in 1 36 dzn\n[2:59 PM, 9/2/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FCC19D"
+          },
+          {
+            "name": "Basu Nandi 817",
+            "details": "[4:24 PM, 8/29/2022] Sachin Office: Eco 1 c/s order\n[4:42 PM, 8/29/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FFB5B5"
+          },
+          {
+            "name": "Saurav Enterprise 802",
+            "details": "Mrp 10 1/2 c/s\nMrp 20 nv 100 1/2 c/s",
+            "color": "94D6FF"
+          },
+          {
+            "name": "Sujit roy Matigara 813",
+            "details": "[12:33 PM, 8/29/2022] Sachin Office: Eco 1 c/s order\n[12:36 PM, 8/29/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FFB5B5"
+          },
+          {
+            "name": "Sanjay Pandit",
+            "details": "Mrp 20 mix 1 c/s\nMrp 10 pineapple or eco mix 1c/s order total 2 c/s",
+            "color": "CFFAFC"
+          },
+          {
+            "name": "Raj Enterprise",
+            "details": "",
+            "color": "FCC7FC"
+          },
+          {
+            "name": "Munna Kumar Sha",
+            "details": "[12:47 PM, 8/29/2022] +91 79088 17125: Order\nNv 3 in 1\n36 dzn\n[1:04 PM, 8/29/2022] PIYUSH GUPTA: Order in progress",
+            "color": "DBDBDB"
+          },
+          {
+            "name": "Dheeraj Stores",
+            "details": "Eco 5 cs",
+            "color": "CFFAFC"
+          },
+          {
+            "name": "U.K.Enterprise",
+            "details": "Nv 100 3cs\nPineapple 2cs",
+            "color": "FCC7FC"
+          }
+        ],
+        "settings": {
+          "color": "#eebc48"
+        }
+      },
+      {
+        "name": "Delivered",
+        "cards": [
+          {
+            "name": "Jagadish Barman Th 15092022",
+            "details": "eco - 1cs",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Siddhi vinayak enterprise Th 15092022",
+            "details": "eco 1cs",
+            "color": "FCC19D"
+          },
+          {
+            "name": "Uttam Banik T 13092022",
+            "details": "navdeep 25 mix- 24 dz\nmaansuddhi 10 mix- 36 dz",
+            "color": "989FFA"
+          },
+          {
+            "name": "Kamal Store W 31082022",
+            "details": "Eco - 4 cs",
+            "color": "989FFA"
+          },
+          {
+            "name": "Sen Store T 01092022",
+            "details": "Eco 1 cs",
+            "color": "A2FCA3"
+          },
+          {
+            "name": "Hari Saha S 03092022",
+            "details": "[7:09 PM, 9/2/2022] jyoti Jalpiguri Sales: Mansudhi eko 1bag,Nb100 1cs Delivery Date = 12/09/22\n[10:11 AM, 9/3/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FFFFFF"
+          },
+          {
+            "name": "Hari Saha Ranirhat M005092022",
+            "details": "Eco 1 cs",
+            "color": "CFFAFC"
+          },
+          {
+            "name": "Dutto pan ghar F09092022",
+            "details": "Nv 100 half case",
+            "color": "C1F7C2"
+          },
+          {
+            "name": "Toton Mohonto F 09092022",
+            "details": "prapti mixed rs 20 one case",
+            "color": "9EFAFF"
+          },
+          {
+            "name": "Kalyani bhandar Bikash Dutta",
+            "details": "[7:05 PM, 8/27/2022] Sales Shiva: Nv 100 4cs\n[7:05 PM, 8/27/2022] PIYUSH GUPTA: navdeep 100 - mrp 20 - 4 cs by shiba podder",
+            "color": "FAFCD2"
+          },
+          {
+            "name": "Swapan Mondal W 07092022",
+            "details": "eco 2 cs",
+            "color": "A2FCA3"
+          },
+          {
+            "name": "Kamal Store W31082022",
+            "details": "[9:18 PM, 8/27/2022] Gopal Jashwal Khoribari New: ORDER\nOctober month\nMaan suddhi eco 5cas\n[10:28 AM, 8/29/2022] PIYUSH GUPTA: Order in progress\nReview Order 1 cs eco",
+            "color": "DBDBDB"
+          },
+          {
+            "name": "Bimal Barman  W31092022",
+            "details": "eco 1 cs",
+            "color": "FAFFA1"
+          },
+          {
+            "name": "Parlad Store W31082022",
+            "details": "[9:18 PM, 8/27/2022] Gopal Jashwal Khoribari New: ORDER\nOctober month\nMaan suddhi eco 5cas\n[10:28 AM, 8/29/2022] PIYUSH GUPTA: Order in progress\nReview Order eco 1 cs",
+            "color": "CFFAFC"
+          },
+          {
+            "name": "Biplab Roy",
+            "details": "Maan suddhi eco 36 dr \nNavdeep 20 5 dr",
+            "color": "94D6FF"
+          },
+          {
+            "name": "Subhojit ti 29.08.2022",
+            "details": "ECO_5c/s\nAstha+Amber$10=1c/s\nPineapple+sandal $10=1c/s\nECO $5=1c/s",
+            "color": "CCD0FC"
+          },
+          {
+            "name": "Uttam Kumar Roy s27082022",
+            "details": "Mansudhi eko 1bag",
+            "color": "FFFFFF"
+          },
+          {
+            "name": "Uttam Kumar Roy F09092022",
+            "details": "Nb100 1cs",
+            "color": "CFFAFC"
+          }
+        ],
+        "settings": {
+          "color": "#B1E1FF"
+        }
+      },
+      {
+        "name": "Canceled",
+        "cards": [
+          {
+            "name": "Munna Kumar Sha S10092022",
+            "details": "[9:24 AM, 9/10/2022] +91 79088 17125: Order\nMansuddhi eco pouch 1cs\n[3:36 PM, 9/10/2022] PIYUSH GUPTA: Order in progress",
+            "color": "FCC19D"
+          }
+        ],
+        "settings": {
+          "color": "#EAE509"
+        }
+      }
+    ],
+    "archived": [],
+    "settings": {}
+  },
+  "Prapti Agarbathies": {
+    "name": "Prapti Agarbathies",
+    "numberOfColumns": 3,
+    "columns": [
+      {
+        "name": "Column 1",
+        "cards": []
+      },
+      {
+        "name": "Column 2",
+        "cards": []
+      },
+      {
+        "name": "Column 3",
+        "cards": []
+      }
+    ],
+    "archived": [],
+    "settings": {}
+  }
+}
